@@ -1,5 +1,5 @@
 from Vertice import Vertice
-from Adjacente import Adjacente
+from Adjacente import Adjacente 
 
 class Grafo:
     arad = Vertice('Arad', 366)
